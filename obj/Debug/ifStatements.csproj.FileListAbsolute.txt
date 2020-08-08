@@ -1,0 +1,7 @@
+C:\Users\jadan\Developer\GitHub\ifStatements\bin\Debug\ifStatements.exe.config
+C:\Users\jadan\Developer\GitHub\ifStatements\bin\Debug\ifStatements.exe
+C:\Users\jadan\Developer\GitHub\ifStatements\bin\Debug\ifStatements.pdb
+C:\Users\jadan\Developer\GitHub\ifStatements\obj\Debug\ifStatements.csprojAssemblyReference.cache
+C:\Users\jadan\Developer\GitHub\ifStatements\obj\Debug\ifStatements.csproj.CoreCompileInputs.cache
+C:\Users\jadan\Developer\GitHub\ifStatements\obj\Debug\ifStatements.exe
+C:\Users\jadan\Developer\GitHub\ifStatements\obj\Debug\ifStatements.pdb

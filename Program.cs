@@ -10,28 +10,38 @@ namespace ifStatements
     {
         static void Main(string[] args)
         {
-            bool isMale = false;
-            bool isTall = false;
+            //bool isMale = false;
+            //bool isTall = false;
+            bool isGaming = true;
+            bool isSleeping = false;
 
-
-            if (isMale && isTall)
+            if (isGaming)
             {
-                Console.WriteLine("You are a tall male.");
+                Console.WriteLine("You are gaming");
             }
-            else if (isMale && !isTall) {
-
-                Console.WriteLine("You are a short male");
-
+            else if (isSleeping)
+            {
+                Console.WriteLine("You are sleeping");
 
             }
-            else if (!isMale && isTall) {
+            //if (isMale && isTall)
+            //{
+            //    Console.WriteLine("You are a tall male.");
+            //}
+            //else if (isMale && !isTall) {
 
-                Console.WriteLine("You are not male but are Tall");
+            //    Console.WriteLine("You are a short male");
+
+
+            //}
+            //else if (!isMale && isTall) {
+
+            //    Console.WriteLine("You are not male but are Tall");
             
-            } else
-            {
-                Console.WriteLine("You are not male and not tall.");
-            }
+            //} else
+            //{
+            //    Console.WriteLine("You are not male and not tall.");
+            //}
 
             Console.ReadLine();
         }
