@@ -12,8 +12,8 @@ namespace ifStatements
         {
             //bool isMale = false;
             //bool isTall = false;
-            bool isGaming = true;
-            bool isSleeping = false;
+            bool isGaming = false;
+            bool isSleeping = true;
 
             if (isGaming)
             {
